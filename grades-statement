@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="uk" class="h-100">
+<head>
+    
+            <script data-ad-client="ca-pub-9928905476924998" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>	
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152957941-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-152957941-1');
+    </script>
+    
+    <title>Виписка оцінок | Нові знання</title>
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="YgU49yobI6d2McCQaC8l252rVBqkiiZLB7EhQre1OfAPR36tcyhNwBJUsKgDX2ec9505cu2-YiN_9Xkr7tZBxA==">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link type="image/svg" href="/images/favicon.svg" rel="icon">
+<link href="/js/fancybox/jquery.fancybox.css" rel="stylesheet">
+<link href="/js/jcrop/jquery.Jcrop.css" rel="stylesheet">
+<link href="/assets/59a4b240/css/bootstrap.css" rel="stylesheet">
+<link href="/css/modules/reports.css?v=17" rel="stylesheet">
+<link href="/assets/7db12296/css/bootstrap-datepicker3.min.css" rel="stylesheet">
+<link href="/assets/7db12296/css/datepicker-kv.min.css" rel="stylesheet">
+<link href="/assets/c7bf012f/css/kv-widgets.min.css" rel="stylesheet">
+<link href="/assets/ccf03558/css/field-range-bs3.min.css" rel="stylesheet">
+<link href="/sass/main.css?v=9" rel="stylesheet">
+<link href="/css/icomoon.css?v=1" rel="stylesheet">
+<link href="/css/site.css?v=3" rel="stylesheet">
+<link href="/css/support.css?v=3" rel="stylesheet">
+<link href="/assets/1e32929e/css/modal-colors.css" rel="stylesheet">
+<script src="/assets/f9bfc6bd/jquery.js"></script>
+<script src="/assets/c207b478/yii.js"></script>
+<script src="/js/main.js?v=3"></script>
+<script src="/js/forms.js?v=1"></script>
+<script>global_urls = {"addfriend":"\/add_friend","approvefriendrequest":"\/approve_friend_request","deletefriendrequest":"\/delete_friend_request","deletefriend":"\/delete_friend","rejectfriendrequest":"\/reject_friend_request","deleteprivatemessage":"\/delete_private_message","sendmessagewall":"\/post_message_wall","getnextmessages":"\/get_next_messages","deletemessage":"\/delete_message","getnextcomments":"\/get_next_comments","post-image":"\/site\/post-image","addfriendrequest":"\/add_friend_request"}
+window.kvDatepicker_83664104 = {"format":"yyyy-mm-dd","autoclose":true,"language":"uk"};
+</script></head>
+<body>
+    
+
+<div class="wrapper">
+    <input type="checkbox" id="nav-open" class="nav-open" hidden />
+    
+    <div class="sidebar">
+        <a class="logo" href="/">
+            <img class="logo__img" src="/images/logo.svg" alt="logo" />
+            <span class="logo__text">nz.ua</span>
+        </a>
+        
+<nav class="sidebar-nav">
+                                                    <a class="sidebar-nav__link " href="/dashboard/school-news">
+                    <i class="sidebar-nav__icon icon--news"></i>
+                    <span class="sidebar-nav__label">Новини</span>
+                                    </a>
+                                                                        <a class="sidebar-nav__link sidebar-nav__link--current" href="/schedule/diary">
+                    <i class="sidebar-nav__icon icon--magazine"></i>
+                    <span class="sidebar-nav__label">Щоденник</span>
+                                    </a>
+                                                            <a class="sidebar-nav__link " href="/schedule/index">
+                    <i class="sidebar-nav__icon icon--schedule"></i>
+                    <span class="sidebar-nav__label">Розклад</span>
+                                    </a>
+                                                            <a class="sidebar-nav__link " href="/friends/index">
+                    <i class="sidebar-nav__icon icon--friends"></i>
+                    <span class="sidebar-nav__label">Друзі</span>
+                                    </a>
+                                                            <a class="sidebar-nav__link " href="/messages/index">
+                    <i class="sidebar-nav__icon icon--messages"></i>
+                    <span class="sidebar-nav__label">Повідомлення</span>
+                                    </a>
+                                                            <a class="sidebar-nav__link " href="/communities">
+                    <i class="sidebar-nav__icon icon--groups"></i>
+                    <span class="sidebar-nav__label">Спільноти</span>
+                                    </a>
+                                                                                                <a class="sidebar-nav__link " href="/reports/children-report/performance">
+                    <i class="sidebar-nav__icon icon--orders"></i>
+                    <span class="sidebar-nav__label">Звіти</span>
+                                    </a>
+                                                                                    <div class="sidebar-nav__box">
+                    <button type="button" class="sidebar-nav__link ">
+                        <i class="sidebar-nav__icon icon--stydy"></i>
+                        <span class="sidebar-nav__label">Навчання</span>
+                    </button>
+                    <div class="sidebar-subnav">
+                        <nav class="sidebar-subnav__box">
+                            <button type="button" class="sidebar-subnav__back"></button>
+                                                            <a class="sidebar-subnav__link " href="/page/video-lessons">
+                                    Відео-уроки від МОН                                </a>
+                                                            <a class="sidebar-subnav__link " href="/page/electronic-textbooks">
+                                    Електронні версії підручників                                </a>
+                                                    </nav>
+                    </div>
+                </div>
+                                                            <button type="button" class="support-open__label sidebar-support__link" data-toggle="modal" data-tooltip="true" data-target="#support-modal"><i class="sidebar-nav__icon icon--support"></i><span class="sidebar-support__label">Технічна підтримка</span></button>                                                            <a class="sidebar-nav__link " href="/logout">
+                    <i class="sidebar-nav__icon icon--logout"></i>
+                    <span class="sidebar-nav__label">Вийти</span>
+                                    </a>
+                        </nav>
+<br>
+<br>
+<a href='https://old.nz.ua'  target='_blank'>Попередня версія сайту</a>    </div>
+    
+    <div class="mainwrap">
+        
+<header class="header">
+    <a class="header__logo" href="/">
+        <img class="logo__img" src="/images/logo-bw.svg" alt="logo" />
+    </a>
+            <aside class="header-select">
+            <!-- selector at header -->
+            <form id="semester-select-form" class="pull-right" action="/site/semester-change" method="post" style="margin: 0 10px">
+<input type="hidden" name="_csrf" value="YgU49yobI6d2McCQaC8l252rVBqkiiZLB7EhQre1OfAPR36tcyhNwBJUsKgDX2ec9505cu2-YiN_9Xkr7tZBxA=="><div class=" field-personalselectform-semester_id">
+<label class="control-label" for="personalselectform-semester_id">Семестр:</label>
+<select id="personalselectform-semester_id" class="" name="semester_id">
+<option value="1062201" selected>2024-2025 [1], 02.09.2024 - 31.12.2024 (поточний)</option>
+<option value="1042049">2023-2024 [2], 01.01.2024 - 06.06.2024 </option>
+<option value="1032678">2023-2024 [1], 01.09.2023 - 31.12.2023 </option>
+<option value="1015106">2022-2023 [2], 02.01.2023 - 14.06.2023 </option>
+<option value="997372">2022-2023 [1], 01.09.2022 - 31.12.2022 </option>
+<option value="994470">2021-2022 [2], 12.01.2022 - 01.07.2022 </option>
+</select>
+</div></form>            <!--end selector -->
+        </aside>
+                <a href="/id8260365" class="header-customer">
+            <figure class="header-customer__img">
+                <img src="/images/no_avatar/boy.jpg" alt="Журавльов Олександр Євгенович" />
+            </figure>
+            <span class="header-customer__name">Журавльов Олександр Євгенович</span>
+        </a>
+    <!--    <nav class="lang">
+        <button type="button" class="lang__btn lang__btn--current">
+            Ua
+        </button>
+        <button type="button" class="lang__btn">En</button>
+    </nav>-->
+    <label for="nav-open" class="nav-open__label">
+        <span class="nav-open__line">&nbsp;</span>
+    </label>
+</header>        
+        <main class="main ">
+            
+                            
+<div class="breadcrumbs">
+    <a class="breadcrumbs__link breadcrumbs__link--home" href="/">Головна</a>    
+                        <a class="breadcrumbs__link" href="/schedule/diary">Щоденник</a>                                <span class="breadcrumbs__item">Виписка оцінок</span>
+            </div>                        
+                        
+            <div class="">
+                
+                
+<div class="page-sm">
+    <h2>
+        Виписка оцінок    </h2>
+    <div class="form-group">
+        <form id="marks-report-form" action="/schedule/grades-statement" method="get">
+        <div class="form-group required">
+            <label class="control-label has-star">Оберіть діапазон дат:</label>
+            <div id="classselectform-date_from-kvdate" class="input-group input-daterange"><div class="kv-container-from form-control field-classselectform-date_from">
+<input type="text" id="classselectform-date_from" class="form-control krajee-datepicker kv-field-from" name="date_from" value="2024-09-02" placeholder="Дата початку" autocomplete="off" data-datepicker-source="classselectform-date_from-kvdate" data-datepicker-type="5" data-krajee-kvDatepicker="kvDatepicker_83664104"><div class="help-block"></div>
+</div><span class="input-group-addon kv-field-separator">по</span><div class="kv-container-to form-control field-classselectform-date_to">
+<input type="text" id="classselectform-date_to" class="form-control kv-field-to" name="date_to" value="2024-12-31" placeholder="Дата закінчення" autocomplete="off"><div class="help-block"></div>
+</div></div>        </div>
+
+        </form>    </div>
+
+    <table class="marks-report">
+    <thead>
+        <tr>
+            <th>№ п/п</th>
+            <th>Назва предмету</th>
+            <th>Отримані результати</th>
+        </tr>
+    </thead>
+    <tbody>
+                    <tr>
+                <td>1</td>
+                <td>Алгебра</td>
+                <td>Н, 7 (Зош), 8 (С/р), 8, хв, 9, хв, хв (К/р), 6 (Тем), 5 (Зош), хв (К/р), 9, 9, 8 (Тем), 7</td>
+            </tr>
+                    <tr>
+                <td>2</td>
+                <td>Англійська мова</td>
+                <td>10, 6, 8, 9, 12, 10, 10, 10 (К/р), 8 (Тем), 10, 4 (Зош), 10, 10, 10, хв, хв, 10, 8 (Зош), хв (К/р), хв, хв, 10</td>
+            </tr>
+                    <tr>
+                <td>3</td>
+                <td>Безпека і здоров'я</td>
+                <td>5, 6, хв, 6, 6 (Тем), хв, хв, 7</td>
+            </tr>
+                    <tr>
+                <td>4</td>
+                <td>Біологія</td>
+                <td>10, 8, 5, 8 (С/р), 6 (Тем), хв, хв (С/р), хв, хв, 9, хв, 10, 10, 8, 8 (С/р)</td>
+            </tr>
+                    <tr>
+                <td>5</td>
+                <td>виховна робота</td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td>6</td>
+                <td>Всесвітня історія</td>
+                <td>хв, хв (мін.п.), хв</td>
+            </tr>
+                    <tr>
+                <td>7</td>
+                <td>Географія</td>
+                <td>хв, 6 (Пр/р), 5 (Дик), 5 (Пр/р), 6 (К/р), 6 (Тем), хв, хв, 10 (С/р), 8 (К/р)</td>
+            </tr>
+                    <tr>
+                <td>8</td>
+                <td>Геометрія</td>
+                <td>8, 5 (Зош), хв, 5 (Тем), хв (К/р), хв, хв, 7 (Зош.), 7 (Тем)</td>
+            </tr>
+                    <tr>
+                <td>9</td>
+                <td>Зарубіжна література</td>
+                <td>7 (Тест), 8 (Зош), 8 (К/р), 6 (Тем), 8 (Зош), хв, хв, 7 (Зош), 9</td>
+            </tr>
+                    <tr>
+                <td>10</td>
+                <td>Інформатика</td>
+                <td>хв, 10, хв, 11, хв, хв</td>
+            </tr>
+                    <tr>
+                <td>11</td>
+                <td>Історія України</td>
+                <td>хв, хв, хв, хв (Пр/р)</td>
+            </tr>
+                    <tr>
+                <td>12</td>
+                <td>Мистецтво</td>
+                <td>хв</td>
+            </tr>
+                    <tr>
+                <td>13</td>
+                <td>Правознавство</td>
+                <td>хв, хв</td>
+            </tr>
+                    <tr>
+                <td>14</td>
+                <td>Трудове навчання </td>
+                <td>6 (Пр/р), 7 (Пр/р), 7 (Пр/р), 7 (Пр/р), 7 (Тем), хв (Пр/р), хв (Пр/р)</td>
+            </tr>
+                    <tr>
+                <td>15</td>
+                <td>Українська  література</td>
+                <td>хв (Нп), хв, 5 (Зош), 7 (К/р), хв, хв, хв, 7</td>
+            </tr>
+                    <tr>
+                <td>16</td>
+                <td>Українська мова </td>
+                <td>6, хв, 6, 5 (Зош), хв, хв, 10 (Пер), хв, 6 (К/р)</td>
+            </tr>
+                    <tr>
+                <td>17</td>
+                <td>Фізика</td>
+                <td>10 (С/р), 9, 9, 5 (К/р), хв, 6 (С/р), хв, хв, хв, 10, 9</td>
+            </tr>
+                    <tr>
+                <td>18</td>
+                <td>Фізична культура</td>
+                <td>хв, хв, хв, хв, хв, хв</td>
+            </tr>
+                    <tr>
+                <td>19</td>
+                <td>Хімія</td>
+                <td>9, хв, хв, хв, хв, 10 (Пр/р)</td>
+            </tr>
+            </tbody>
+</table>
+</div>
+                
+            </div>
+            
+        </main>
+        
+		
+        
+	 	<div style="text-align:center;  height: 125px !important; max-height: 125px !important; background-color:white;">
+
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9928905476924998"
+				 crossorigin="anonymous"></script> 
+			<!-- NZ footer ua -->
+		 	<ins class="adsbygoogle"
+				 style="display:inline-block;width:1180px;height:120px"
+				 data-ad-client="ca-pub-9928905476924998"
+				 data-ad-slot="3860674994"></ins>
+			<script>
+				 (adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+
+		</div> 
+			
+		
+        
+<footer class="footer">
+    
+        
+    <aside class="footer-box">
+    <p class="footer__title">Найближчі дні народження</p>
+    <div class="footer-birthday">
+                    <p class="footer-birthday__item">
+                <span class="footer-birthday__date">
+                    3 груд.                </span>
+                <a class="footer-birthday__name" href="/id8260360">Велика Дар'я Сергіївна</a>            </p>
+                    <p class="footer-birthday__item">
+                <span class="footer-birthday__date">
+                    6 груд.                </span>
+                <a class="footer-birthday__name" href="/id8260374">Стегар Катерина Вячеславівна</a>            </p>
+                    <p class="footer-birthday__item">
+                <span class="footer-birthday__date">
+                    30 груд.                </span>
+                <a class="footer-birthday__name" href="/id8260354">Аджароглу Роксана Юсифівна</a>            </p>
+                    <p class="footer-birthday__item">
+                <span class="footer-birthday__date">
+                    10 січ.                </span>
+                <a class="footer-birthday__name" href="/id8260357">Бобул Віталій Віталійович</a>            </p>
+                    <p class="footer-birthday__item">
+                <span class="footer-birthday__date">
+                    29 січ.                </span>
+                <a class="footer-birthday__name" href="/id8131064">Гетманченко Олена Петрівна</a>            </p>
+                    <p class="footer-birthday__item">
+                <span class="footer-birthday__date">
+                    13 лют.                </span>
+                <a class="footer-birthday__name" href="/id10629715">Барон Максим Миколайович</a>            </p>
+            </div>
+</aside>
+    
+    <aside class="footer-box">
+        <div class="footer__icons">
+            <figure class="qr-code__img">
+                <img src="/images/logo-bw.svg" alt="logo" />
+            </figure>
+            <figure class="qr-code__img">
+                <img src="/images/tryzub.svg" alt="tryzub" />
+            </figure>
+        </div>
+        <p class="copyright">
+            ТОВ “Нові Знання”<br />
+            Створено на платформі <a href="https://isuo.org" target="_blank">ІСУО</a> © 2024
+        </p>
+        <div class="footer-app">
+            <a href="https://apps.apple.com/us/app/nz-ua-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8-%D1%82%D0%B0-%D1%89%D0%BE%D0%B4%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8/id1593698728" target="_blank" class="footer-app__link">
+                <img src="/images/icons/apple-store-icon.svg" alt="apple-store" />
+            </a>
+            <a href="https://play.google.com/store/apps/details?id=ua.nz.NZClient&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank" class="footer-app__link">
+                <img src="/images/icons/google-store-icon.svg" alt="google-store" />
+            </a>
+        </div>
+    </aside>
+</footer>    
+    </div>
+</div>
+    
+<!-- Для фона в fancybox -->
+<div class="page-fade"></div>
+
+
+
+<div id="support-modal" class="fade modal" role="dialog" tabindex="-1">
+<div class="modal-dialog ">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+<span><h3>Технічна підтримка</h3></span>
+
+</div>
+<div class="modal-body">
+
+</div>
+
+</div>
+</div>
+</div>    
+<script src="/js/jquery.autoresize.js"></script>
+<script src="/js/messages.js?v=1"></script>
+<script src="/js/community.js?v=5"></script>
+<script src="/js/search.js"></script>
+<script src="/js/ajaxfileupload.js"></script>
+<script src="/js/uploadFiles.js"></script>
+<script src="/js/fancybox/jquery.fancybox-1.3.4.js"></script>
+<script src="/js/jcrop/jquery.Jcrop.js"></script>
+<script src="/assets/7db12296/js/bootstrap-datepicker.min.js"></script>
+<script src="/assets/7db12296/js/datepicker-kv.min.js"></script>
+<script src="/assets/7db12296/js/locales/bootstrap-datepicker.uk.min.js"></script>
+<script src="/assets/c7bf012f/js/kv-widgets.min.js"></script>
+<script src="/assets/ccf03558/js/field-range.min.js"></script>
+<script src="/assets/c207b478/yii.validation.js"></script>
+<script src="/assets/c207b478/yii.activeForm.js"></script>
+<script src="/assets/59a4b240/js/bootstrap.js"></script>
+<script src="/assets/1e32929e/js/kb-modal-ajax.js"></script>
+<script>jQuery(function ($) {
+translates = {
+            "Вы хотите обрезать картинку?" : "Ви хочете обрізати картинку?",
+            "Введите название фотоальбома" : "Введіть назву фотоальбому",
+            "Заполните название страницы" : "Заповніть назву сторінки",
+            "Вы хотите удалить страницу?" : "Ви хочете видалити сторінку?",
+            "Вы хотите удалить новость?" : "Ви бажаєте видалити новину?",
+            "Вы хотите удалить картинку?" : "Ви бажаєте видалити картинку?",
+            "Вы хотите удалить этот коментарий?" : "Ви бажаєте видалити цей коментар?",
+            "Вы хотите удалить папку?" : "Ви бажаєте видалити папку?",
+            "Вы хотите удалить сообщество?" : "Ви бажаєте видалити спільноту?",
+            "Введите сообщение" : "Введіть повідомлення",
+            "Сообщение слишком длинное" : "Повідомлення занадто довге",
+            "Введите название сообщества" : "Введіть назву спільноти",
+            "Вы хотите отклонить этого пользователя?" : "Ви бажаєте відхилити цього користувача?",
+            "Вы хотите принять этого пользователя?" : "Ви бажаєте прийняти цього користувача?",
+            "Сохранить" : "Зберегти",
+            "Вы хотите разбанить этого пользователя?" : "Ви бажаєте розбанити цього користувача?",
+            "Вы хотите забанить этого пользователя?" : "Ви бажаєте забанити цього користувача?",
+            "Введите тему и сообщение" : "Введіть тему і повідомлення",
+            "Сообщение отправлено" : "Повідомлення відправлено",
+            "Вы хотите удалить это сообщение?" : "Ви бажаєте видалити це повідомлення?",
+            "Вы хотите отправить запрос на дружбу?" : "Ви бажаєте відправити запит на дружбу?",
+            "Вы хотите добавить друга?" : "Ви бажаєте додати друга?",
+            "Вы хотите удалить этого человека из друзей?" : "Ви бажаєте видалити цю людину з друзів?",
+            "Вы хотите отклонить заявку на дружбу?" : "Ви бажаєте відхилити заявку на дружбу?",
+            "Вы хотите удалить заявку?" : "Ви бажаєте видалити заявку?",
+            "Вы хотите удалить это сообщение без возможности восстановления?" : "Ви бажаєте видалити це повідомлення без можливості відновлення?",
+            "Вы хотите восстановить это сообщение?" : "Ви бажаєте відновити це повідомлення?",
+            "Ничего не выделено" : "Нічого не виділено",
+            "Вы хотите восстановить эти сообщения?" : "Ви бажаєте відновити ці повідомлення?",
+            "Вы хотите удалить эти сообщения без возможности восстановления?" : "Ви бажаєте видалити ці повідомлення без можливості відновлення?",
+            "Вы хотите удалить эти сообщения?" : "Ви бажаєте видалити ці повідомлення?",
+            "Вы хотите удалить этот файл?" : "Ви бажаєте видалити цей файл?",
+            "" : "",
+            "" : "",
+            "" : "",
+            "" : "",
+            "" : "",
+        }
+jQuery.fn.kvDatepicker.dates={};
+jQuery&&jQuery.pjax&&(jQuery.pjax.defaults.maxCacheLength=0);
+if (jQuery('#classselectform-date_from').data('kvDatepicker')) { jQuery('#classselectform-date_from').kvDatepicker('destroy'); }
+jQuery('#classselectform-date_from-kvdate').kvDatepicker(kvDatepicker_83664104);
+
+initDPRemove('classselectform-date_from', true);
+jQuery('#marks-report-form').yiiActiveForm([{"id":"classselectform-date_from","name":"date_from","container":".field-classselectform-date_from","input":"#classselectform-date_from","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значення \u0022Дата початку\u0022 має бути текстовим рядком.","skipOnEmpty":1});}},{"id":"classselectform-date_to","name":"date_to","container":".field-classselectform-date_to","input":"#classselectform-date_to","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значення \u0022Дата закінчення\u0022 має бути текстовим рядком.","skipOnEmpty":1});}}], []);
+
+        $('form#marks-report-form select, #classselectform-date_from, #classselectform-date_to').change(function() {
+            $(this.form).submit();
+        });
+    
+jQuery('#semester-select-form').yiiActiveForm([], []);
+
+    $('form#semester-select-form select').change(function() {
+        $(this.form).submit();
+    });
+
+jQuery('#support-modal').modal({"show":false});
+
+            jQuery('#support-modal').kbModalAjax({
+                url: '/account/support',
+                size:'sm',
+                ajaxSubmit: true
+            });
+        
+jQuery('#support-modal').on('kbModalSubmit', 
+                function(event, data, status, xhr) {
+                    if(status){
+                        
+                    }
+                }
+            )
+});</script></body>
+</html>
