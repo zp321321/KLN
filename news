@@ -170,9 +170,9 @@
 <div class="news-page__header">
             <a href="/id8131064" class="news-page__customer">
             <figure class="news-page__img">
-                <img src="/images/no_avatar/woman.jpg" alt="Гетманченко Олена Петрівна" />
+                <img src="/images/no_avatar/woman.jpg" alt="" />
             </figure>
-            <span class="news-page__name">Гетманченко Олена Петрівна</span>
+            <span class="news-page__name">Шевцова Інна Андріївна</span>
         </a>
         <span class="news-page__date">29 листопада о 20:34</span>
 </div>
@@ -183,7 +183,7 @@
 <div class="news-page__header">
             <a href="/id8131115" class="news-page__customer">
             <figure class="news-page__img">
-                <img src="/upload/users_img/users/avatars/813/8131115/20x20.jpg" alt="Павловська Юлія Олександрівна" />
+                <img src="/images/no_avatar/woman.jpg" alt="" />
             </figure>
             <span class="news-page__name">Шевцова Інна Андріївна</span>
         </a>
